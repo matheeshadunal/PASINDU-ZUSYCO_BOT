@@ -16,9 +16,9 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94776393542",
-  SUDO_NUMBERS : "94766632281,94776393542",
-  OWNER_NAME: "Mᴇ Pᴀꜱɪɴᴅᴜ",
+  OWNER_NUMBER: "94756965678",
+  SUDO_NUMBERS : "94754625969,94756965678",
+  OWNER_NAME: "𝙈𝘼𝙇𝙀𝙀𝙔𝘼 𝕆𝔽𝔽𝕀ℂ𝕀𝔸𝕃 .........🖤",
   BOT_NAME : "ＺＵＳＹＣＯ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
@@ -36,11 +36,11 @@ module.exports = {
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
   CAPTION : '*々 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʏʙᴇʀᴋɪʟʟᴇʀꜱᴛᴇᴀᴍ*',
-  STICKER_PACK : 'ᴍͥ ʀ  ɪ ꜱͣ ᴜͫ ʀ ᴜ  x',
-  BAD_WORDS : 'fuck,pussy',
-  ANTI_BAD : false,
+  STICKER_PACK : '𝙈𝘼𝙇𝙀𝙀𝙔𝘼 𝕆𝔽𝔽𝕀ℂ𝕀𝔸𝕃 .........🖤',
+  BAD_WORDS : 'fuck,pussy,htti,pnnya,wesi,hucnna,cry htti,htto,http',
+  ANTI_BAD : true,
   ANTI_LINKS : 'chat.whatsapp.com',
-  ANTI_LINK : false,
+  ANTI_LINK : true,
   ANTI_LINK_KICK : false,
   MAX_SIZE : 500,
   MOROCCO_NUMBERS : {
@@ -49,12 +49,12 @@ module.exports = {
   },
   READ : {
      ALL_MESSAGES : false,
-     ONLY_COMMANDS : true,
-     STATUS : true,
+     ONLY_COMMANDS : false,
+     STATUS : false,
   },
   BOT_OFFLINE : false,
   INBOX_BLOCK : false,
-  AUTO_REACT : true,
+  AUTO_REACT : false,
   OWNER_REACT : '🤵‍♂️',
   AUTO_BGM : false,
   BGM : {
